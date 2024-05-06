@@ -34,7 +34,7 @@
             <div
               v-for="(task, index) in experience.tasks"
               :key="'task-' + index"
-              class="leading-relaxed mb-6 content-start"
+              class="leading-relaxed mb-6"
             >
               <div class="float-left">
                 <span class="sm:text-2xl text-sm">⚙️</span>
@@ -76,7 +76,7 @@ export default {
       experiences: [
         {
           startDate: "Jun 2023",
-          endDate: "Feb 2024",
+          endDate: "Present",
           position: "Full-Stack Developer - VueJS and Firebase",
           company: "Seikosoft",
           description: "Technologies: VueJS 3, Firebase",

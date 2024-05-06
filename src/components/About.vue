@@ -21,7 +21,7 @@
             <div
               v-for="description in descriptions"
               :key="description"
-              class="leading-relaxed mb-6 content-start"
+              class="leading-relaxed mb-6"
             >
               <div class="float-left">
                 <span class="sm:text-2xl text-sm">⚙️ </span>
