@@ -75,8 +75,8 @@ export default {
     return {
       experiences: [
         {
-          startDate: "From Jun 2023",
-          endDate: "To Feb 2024",
+          startDate: "Jun 2023",
+          endDate: "Feb 2024",
           position: "Full-Stack Developer - VueJS and Firebase",
           company: "Seikosoft",
           description: "Technologies: VueJS 3, Firebase",
@@ -88,8 +88,8 @@ export default {
           website: "https://www.seikosoft.com/",
         },
         {
-          startDate: "From Dec 2021",
-          endDate: "To Jun 2023",
+          startDate: "Dec 2021",
+          endDate: "Jun 2023",
           position: "Frontend Developer - VueJS, Quasar, TailwindCSS",
           company: "LUMEA",
           description:
@@ -104,8 +104,8 @@ export default {
           website: "https://lumeadigital.com/",
         },
         {
-          startDate: "From Jun 2021",
-          endDate: "To Oct 2021",
+          startDate: "Jun 2021",
+          endDate: "Oct 2021",
           position: "Software Developer - JavaScript, C#, Flutter",
           company: "Dewmaker Design, Inc.",
           description:
@@ -119,8 +119,8 @@ export default {
           website: "https://dewmaker.design/",
         },
         {
-          startDate: "From Oct 2020",
-          endDate: "To Jun 2021",
+          startDate: "Oct 2020",
+          endDate: "Jun 2021",
           position: "Frontend Developer - VueJS, Flutter, and Figma",
           company: "NUVENSIS / BEAPTECH Inc.",
           description:
@@ -135,8 +135,8 @@ export default {
           website: "http://nuvensis.ch/",
         },
         {
-          startDate: "From Jul 2019",
-          endDate: "To Aug 2020",
+          startDate: "July 2019",
+          endDate: "Aug 2020",
           position: "Full-Stack Developer - VueJS, Python and Django",
           company: "BPOSeats.com / Channel Info Tech",
           description:
@@ -151,8 +151,8 @@ export default {
           website: "https://bposeats.com/",
         },
         {
-          startDate: "From Jun 2018",
-          endDate: "To Aug 2018",
+          startDate: "Jun 2018",
+          endDate: "Aug 2018",
           position: "Full-Stack Web Developer (Intern)",
           company: "BPOSeats.com / Channel Info Tech",
           description:

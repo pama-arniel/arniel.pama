@@ -5,8 +5,8 @@
     <div id="app">
       <Nav class="mb-6" />
       <Hero />
-      <Projects />
       <About />
+      <Projects />
       <Articles />
       <Organizations />
       <Contact />
